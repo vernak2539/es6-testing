@@ -1,0 +1,16 @@
+{
+  "name": "es6-testing",
+  "version": "0.0.1",
+  "description": "testing es6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Alex Vernacchia",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-6to5": "^2.0.0"
+  }
+}
